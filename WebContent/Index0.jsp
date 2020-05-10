@@ -18,10 +18,10 @@
 	</head>
 	<body>
 		<header id="header0" >
-			<p id="nomSiteTitre">&nbsp;PARULINE C<span class="minuscule">onsruction ™</span><br><br><br></p>
-			<p id="accrocheSiteTitre">&nbsp;Car aujourd'hui existent des desseins,<br /> Pour les plus beaux ouvrages de demain...<br><br></p>
+			<p id="nomSiteTitre"> &nbsp;<span class="correctif">→</span>PARULINE C<span class="minuscule">onsruction ™</span><br><br><br></p>
+			<p id="accrocheSiteTitre"><span class="correctif">→</span>Car aujourd'hui existent des desseins,<br /> 
+			Pour les plus beaux ouvrages de demain...<br><br></p>
 		</header>
-			<!-- <nav id="container_navbar"> -->
 		<nav class='barreDeNav'>
 			<ul>
 				<li><a id="filAriane" href="index0.html">Accueil</a></li>
@@ -33,10 +33,10 @@
 		</nav>
 		<!-- <br><br><hr> -->
 		<div id="accueil" >		
-			<p id="accrocheAccueil"><SPAN class="premierMot">"Q&nbsp;</SPAN> &nbsp;u'il faille que persiste en leur sein,<br />
-			&nbsp;&nbsp;Des hommes, le partage de leurs mains.”
+			<p id="accrocheAccueil">..."F&nbsp;&nbsp;aille qu'alors persiste en leur sein,<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Des hommes le partage de leurs mains.”
 			<br><br>
-			<p class="text"> T&nbsp&nbspôt ou tard, votre regard pour votre organisation ira bien au delà de l'horizon, allant vers un développement durable de celle-là. Pour ce faire, <span class="nomSiteTexte">PARULINE Construction ™</span> sera là pour vous aider dans cette tâche. En effet, nous nous présentons à vous pour vous offrir notre aide. Nous ciblons de ce fait les petites et moyennes organisations. Ensemble, nous trouverons une solution à vos ambitions.  
+			<p class="text"> T&nbsp;&nbsp;ôt ou tard, votre regard pour votre organisation ira bien au delà de l'horizon, allant vers un développement durable de celle-là. Pour ce faire, <span class="nomSiteTexte">PARULINE Construction ™</span> sera là pour vous aider dans cette tâche. En effet, nous nous présentons à vous pour vous offrir notre aide. Nous ciblons de ce fait les petites et moyennes organisations. Ensemble, nous trouverons une solution à vos ambitions.  
 			<br /><br />
 			Vous êtes vous-même une organisation orientée sur le minage? <br />
 			Chez  <span class="nomSiteTexte">PARULINE Construction ™</span>, nous considérons notre univers assez vaste pour accueillir chacun d'entre-nous. En effet, notre division <span class="nomSiteTexte">PARULINE Minage ™</span>  ne nous sert uniquement à proposer des matières premières, dédiées directement à la construction. Ceci nous permet de proposer des matériaux à prix concurentiel, nous affranchissant d'étapes intermédiaires (sous traitant), limitant les coûts jusqu'à la livraison du produit fini.Vivamus iaculis faucibus augue. Aliquam ut augue dapibus, luctus ligula vel, euismod leo. Sed sit amet felis gravida, semper est id, pretium felis. Suspendisse elementum elit nunc, ut mattis purus pharetra a. Nulla facilisis eleifend imperdiet. Nunc ornare, lacus at interdum lobortis, dui neque fringilla nisl, eu consectetur mi augue id quam. Proin congue consequat nisi accumsan ornare. Proin luctus, enim non congue bibendum, eros nibh consectetur orci, vitae maximus arcu leo ac felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam consectetur lacinia neque, sit amet accumsan magna pretium ut. Curabitur eget pulvinar elit.
