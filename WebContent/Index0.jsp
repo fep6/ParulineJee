@@ -40,8 +40,8 @@
 			<br /><br />
 			Vous êtes vous-même une organisation orientée sur le minage? <br />
 			Chez  <span class="nomSiteTexte">PARULINE Construction ™</span>, nous considérons notre univers assez vaste pour accueillir chacun d'entre-nous. En effet, notre division <span class="nomSiteTexte">PARULINE Minage ™</span>  ne nous sert uniquement à proposer des matières premières, dédiées directement à la construction. Ceci nous permet de proposer des matériaux à prix concurentiel, nous affranchissant d'étapes intermédiaires (sous traitant), limitant les coûts jusqu'à la livraison du produit fini.Vivamus iaculis faucibus augue. Aliquam ut augue dapibus, luctus ligula vel, euismod leo. Sed sit amet felis gravida, semper est id, pretium felis. Suspendisse elementum elit nunc, ut mattis purus pharetra a. Nulla facilisis eleifend imperdiet. Nunc ornare, lacus at interdum lobortis, dui neque fringilla nisl, eu consectetur mi augue id quam. Proin congue consequat nisi accumsan ornare. Proin luctus, enim non congue bibendum, eros nibh consectetur orci, vitae maximus arcu leo ac felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam consectetur lacinia neque, sit amet accumsan magna pretium ut. Curabitur eget pulvinar elit.
-			<br /><br /
-			>Suspendisse consectetur pretium laoreet. Nunc at hendrerit sem, non faucibus tortor. Ut et malesuada tellus. Aenean gravida efficitur augue ac egestas. In a lorem blandit, interdum quam at, finibus dui. Ut eget metus quam. Vivamus egestas, massa ut imperdiet tristique, enim est ultricies tellus, at ullamcorper eros leo ac orci.
+			<br /><br />
+			Suspendisse consectetur pretium laoreet. Nunc at hendrerit sem, non faucibus tortor. Ut et malesuada tellus. Aenean gravida efficitur augue ac egestas. In a lorem blandit, interdum quam at, finibus dui. Ut eget metus quam. Vivamus egestas, massa ut imperdiet tristique, enim est ultricies tellus, at ullamcorper eros leo ac orci.
 			<br /><br />
 			<span class="question">Quels type de prestations pouvez-vous attendre de nous?</span>  
 			<br /><br />
