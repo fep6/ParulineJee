@@ -104,6 +104,12 @@
 		}
 
 	/* dans le reste */
+	
+		#MensionsLegalesClair{
+			
+		 background-color:#000;
+		}
+	
 		#chap1, #chap2, #chap3{
 			padding: 2% 5%;
 			font-size: 125%;

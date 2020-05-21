@@ -19,8 +19,8 @@
 	<body>
 		<header id="headerE">
 			<p id="nomSiteTitre"> &nbsp;<span class="correctif">→</span>PARULINE C<span class="minuscule">onsruction ™</span><br><br><br></p>
-			<p id="accrocheSiteTitre"><span class="correctif">→</span>Car aujourd'hui existent des desseins,<br /> 
-			Pour les plus beaux ouvrages de demain...<br><br></p>
+			<p id="accrocheSiteTitre"><span class="correctif">→Car aujourd'hui existent des desseins,<br /> 
+			Pour les plus beaux ouvrages de demain...</span><br><br></p>
 		</header>
 			<!-- <nav id="container_navbar"> -->
 		<nav class='barreDeNav'>
