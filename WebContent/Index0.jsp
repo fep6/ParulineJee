@@ -17,7 +17,7 @@
 	</head>
 	<body>
 		<header id="header0" >
-			<p id="nomSiteTitre"> &nbsp;<span class="correctif">→</span>PARULINE C<span class="minuscule">onsruction ™</span><br><br><br></p>
+			<p id="nomSiteTitre"> &nbsp;<span class="correctif">→</span>PARULINE C<span class="minuscule">onstruction ™</span><br><br><br></p>
 			<p id="accrocheSiteTitre"><span class="correctif">→</span>Car aujourd'hui existent des desseins,<br /> 
 			Pour les plus beaux ouvrages de demain...<br><br></p>
 		</header>
@@ -29,8 +29,13 @@
 				<li><a href="Index3.jsp">Recrutement</a></li>
 				<li><a href="Index4.jsp">Ingénierie (Mapping)</a></li>
 			</ul>
-		</nav>
-		<!-- <br><br><hr> -->
+		</nav>	
+		<div id="MensionsLegales"><br>
+			→This is an unofficial Star Citizen Fan Site<br>
+			→Star Citizen®, Roberts Space Industries® and Cloud Imperium ® are registered trademarks of Cloud Imperium Rights LLC
+			<img id="MensionsLegalesLogoSC" src="images/MadeByTheCommunity_Black.png" alt="" />
+			<!-- <img id="MensionsLegalesLogoJava" src="images/java.png" alt="" /> -->
+		</div>
 		<div id="accueil" >		
 			<p id="accrocheAccueil">..."F&nbsp;&nbsp;aille qu'alors persiste en leur sein,<br />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Des hommes le partage de leurs mains.”

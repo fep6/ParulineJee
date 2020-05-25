@@ -31,8 +31,13 @@
 				<li><a href="Index3.jsp">Recrutement</a></li>
 				<li><a href="Index4.jsp">Ingénierie (Mapping)</a></li>
 			</ul>
-		</nav>
-		<!-- <br><br><hr> -->
+		</nav>	
+		<div id="MensionsLegales"><br>
+			→This is an unofficial Star Citizen Fan Site<br>
+			→Star Citizen®, Roberts Space Industries® and Cloud Imperium ® are registered trademarks of Cloud Imperium Rights LLC
+			<img id="MensionsLegalesLogoSC" src="images/MadeByTheCommunity_Black.png" alt="" />
+			<!-- <img id="MensionsLegalesLogoJava" src="images/java.png" alt="" /> -->
+		</div>
 		<div id="chap2" >
 			<p class="accroche"><SPAN class="premierMot">"s&nbspûr</SPAN> de notre &nbsp&nbspcompétitivité, <br />
 			&nbsp grace à un savoir-faire,<br />et une maîtrise des coûts."</p>

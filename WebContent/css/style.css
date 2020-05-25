@@ -105,16 +105,30 @@
 
 	/* dans le reste */
 	
-		#MensionsLegalesClair{
-			
-		 background-color:#000;
+		#MensionsLegales{
+			  display: flex;
+			  justify-content: space-between;
+			font-size: 10px;
+			background-color: #000;
+			color : white;
+			position:fixed;
+	        width: 100%;
+	        bottom: 0; /* vaut mieux fixer les valeurs par défaut pour ne pas avoir de mauvaises surprises */
 		}
-	
+		#MensionsLegalesLogoSC{
+			width : 2%;
+			height: 2%;
+		}
+/* 		#MensionsLegalesLogoJava{
+			width : 0.1%;
+			height: 0.1%;
+		}
+*/	
 		#chap1, #chap2, #chap3{
 			padding: 2% 5%;
 			font-size: 125%;
 			background-repeat: no-repeat;
-			background-size: 110%;
+			background-size: cover;
 			background-attachment: fixed;
 		}
 		#accueil{
