@@ -51,7 +51,9 @@ public class Connexion extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String login = request.getParameter("txtLogin");
 		String password = request.getParameter("txtPassword");
-		
+
+		// On récupère les données qui arrivent, pour la stocker dans la session http
+		// Le booléen sert à créer la session si elle n'existe pas
 		HttpSession session = request.getSession( true );
 		// Ce qui permet de stocker les données dans la session
 		session.setAttribute("login", login);

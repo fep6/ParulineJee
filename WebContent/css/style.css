@@ -25,13 +25,13 @@
 			/*max-height: 40em;*/
 		}
 		#header0 {
-			background: no-repeat top center url("../images/header3.png");
+			background: no-repeat top center url("../images/header0.png");
 			background-size: cover;
 			background-attachment: fixed;
 		}
 		#header1 {
 			background-attachment: fixed;
-			background: no-repeat top center url(../images/header5.png);
+			background: no-repeat top center url(../images/header1.png);
 			background-size: cover;
 			/*background-size: 100%;
 			min-height: : 100%;

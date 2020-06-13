@@ -35,7 +35,7 @@
 		<div id="MensionsLegales"><br>
 			→This is an unofficial Star Citizen Fan Site<br>
 			→Star Citizen®, Roberts Space Industries® and Cloud Imperium ® are registered trademarks of Cloud Imperium Rights LLC
-			<img id="MensionsLegalesLogoSC" src="images/MadeByTheCommunity_Black.png" alt="" />
+			<img id="MensionsLegalesLogoSC" src="images/MadeByTheCommunity_Black.png" alt="Logo Made By Community" />
 			<!-- <img id="MensionsLegalesLogoJava" src="images/java.png" alt="" /> -->
 		</div>
 		<div  id="chap3">
